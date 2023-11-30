@@ -1,0 +1,2 @@
+#Content on the example file
+This content is for new created branch
